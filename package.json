@@ -1,0 +1,19 @@
+{
+  "name": "hex-reader",
+  "version": "1.0.0",
+  "description": "Takes in an SVG and make a readable list of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpbasile/hex-reader.git"
+  },
+  "author": "Vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpbasile/hex-reader/issues"
+  },
+  "homepage": "https://github.com/vpbasile/hex-reader#readme"
+}
